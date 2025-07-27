@@ -1,0 +1,3 @@
+AAPL: $360
+TSLA: $750
+Total Investment: $1110
